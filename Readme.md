@@ -29,31 +29,32 @@ A data visualization application built with Streamlit to analyze datasets, provi
 
 ```
 cloud-computing-project/
+├── frontend/
+│   ├── pomodoro-tracker/
+│   │   ├── .next
+│   │   ├── app/
+│   │   │   ├── components
+│   │   │   ├── favicon.ico
+│   │   │   ├── globals.css
+│   │   │   ├── layout.tsx
+│   │   │   └── page.js
+│   │   ├── node_modules
+│   │   ├── public
+│   │   ├── .gitignore
+│   │   ├── next-env.d.ts
+│   │   ├── next.config.ts
+│   │   ├── package-lock.json
+│   │   ├── package.json
+│   │   ├── postcss.config.mjs
+│   │   └── README.md
+│   └── README.md
 ├── streamlit/
 │   ├── app.py
 │   └── datasets/
 │       ├── sales_data.csv
 │       └── products_data.csv
-│
-├── frontend/
-│   ├── .next
-│   ├── app
-│   │   ├── components
-│   │   ├── favicon.ico
-│   │   ├── globals.css
-│   │   ├── layout.tsx
-│   │   └── page.js
-│   ├── node_modules
-│   ├── public
-│   ├── .gitignore
-│   ├── next-env.d.ts
-│   ├── next.config.ts
-│   ├── package-lock.json
-│   ├── package.json
-│   ├── postcss.config.mjs
-│   └── README.md
-│
 └── README.md
+
 ```
 
 ---
